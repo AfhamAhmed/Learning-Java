@@ -1,4 +1,4 @@
-// Csr code
+// Car code
 public class Cars {
 	private int doors;
 	private int wheels;
